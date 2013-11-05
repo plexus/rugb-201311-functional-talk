@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
-%w[slippery hexp kramdown].each do |name|
-  #gem name, github: "plexus/#{name}"
-  gem name, path: "/home/arne/github/#{name}"
+%w[slippery hexp].each do |name|
+  gem name, github: "plexus/#{name}"
+  #gem name, path: "/home/arne/github/#{name}"
 end
 
 # gem 'kramdown',
