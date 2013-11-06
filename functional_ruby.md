@@ -228,3 +228,9 @@ ri Enumerable
 ri Enumerator
 ri Method
 ```
+
+---
+
+![](images/happy_lambda.png)
+
+[leanpub.com/happylambda](http://leanpub.com/happylambda)
